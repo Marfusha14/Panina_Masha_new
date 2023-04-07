@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackendApi</name>
+    </assembly>
+    <members>
+        <member name="M:BackendApi.Controllers.UserController.GetAll">
+            <summary>
+            Получение списка всех пользователей БД
+            </summary>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.GetById(System.Int32)">
+            <summary>
+            Возвращение айди всех пользователей пользователей
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Add(BackendApi.Contracts.User.CreateUserRequest)">
+             <summary>
+             Создание нового пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 POST /Todo
+                 {
+                     "login" : "A4Tech Bloody B188",
+                     "password" : "!Pa$$word123@",
+                     "firstname" : "Иван",
+                     "lastname" : "Иванов",
+                     "middlename" : "Иванович"
+                 }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Update(Domain.Models.User)">
+            <summary>
+            Изменение сущностей записи
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Delete(System.Int32)">
+            <summary>
+            Удаление пользователей
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
