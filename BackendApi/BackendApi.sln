@@ -3,13 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendApi", "BackendApi\BackendApi.csproj", "{C640E4E6-EA3F-49CA-BB93-26FF0E752E8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackendApi", "BackendApi\BackendApi.csproj", "{C640E4E6-EA3F-49CA-BB93-26FF0E752E8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{603E3984-C98B-47B8-A47F-822C88570EC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{603E3984-C98B-47B8-A47F-822C88570EC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{BBF331F2-8644-4FE7-86DE-88C762FDB63F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "..\Domain\Domain.csproj", "{BBF331F2-8644-4FE7-86DE-88C762FDB63F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "..\BusinessLogic\BusinessLogic.csproj", "{34ED5FC5-9E0B-4FE0-AE1C-CCA80B71EAB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "..\BusinessLogic\BusinessLogic.csproj", "{34ED5FC5-9E0B-4FE0-AE1C-CCA80B71EAB2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6FE3E30E-9E4C-4AA3-A819-C629DAEF6BDA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic.Tests", "BusinessLogic.Tests\BusinessLogic.Tests.csproj", "{07C893E1-F2AD-4C59-BD62-A8E9825453BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BB4D16CA-5A36-4C4C-80F9-39ECC5ADD5EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{2119A93B-41FF-4AB7-87BB-A761BC4E2D0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,9 +44,20 @@ Global
 		{34ED5FC5-9E0B-4FE0-AE1C-CCA80B71EAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34ED5FC5-9E0B-4FE0-AE1C-CCA80B71EAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34ED5FC5-9E0B-4FE0-AE1C-CCA80B71EAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C893E1-F2AD-4C59-BD62-A8E9825453BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C893E1-F2AD-4C59-BD62-A8E9825453BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C893E1-F2AD-4C59-BD62-A8E9825453BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C893E1-F2AD-4C59-BD62-A8E9825453BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C640E4E6-EA3F-49CA-BB93-26FF0E752E8A} = {BB4D16CA-5A36-4C4C-80F9-39ECC5ADD5EA}
+		{603E3984-C98B-47B8-A47F-822C88570EC6} = {BB4D16CA-5A36-4C4C-80F9-39ECC5ADD5EA}
+		{BBF331F2-8644-4FE7-86DE-88C762FDB63F} = {BB4D16CA-5A36-4C4C-80F9-39ECC5ADD5EA}
+		{34ED5FC5-9E0B-4FE0-AE1C-CCA80B71EAB2} = {BB4D16CA-5A36-4C4C-80F9-39ECC5ADD5EA}
+		{07C893E1-F2AD-4C59-BD62-A8E9825453BE} = {2119A93B-41FF-4AB7-87BB-A761BC4E2D0C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4783F9EE-D4EB-4ABB-9C63-799A2D0271A2}

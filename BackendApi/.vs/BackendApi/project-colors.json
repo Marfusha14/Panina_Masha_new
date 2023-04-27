@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c640e4e6-ea3f-49ca-bb93-26ff0e752e8a": {
+      "ProjectGuid": "c640e4e6-ea3f-49ca-bb93-26ff0e752e8a",
+      "DisplayName": "BackendApi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "bbf331f2-8644-4fe7-86de-88c762fdb63f": {
+      "ProjectGuid": "bbf331f2-8644-4fe7-86de-88c762fdb63f",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "603e3984-c98b-47b8-a47f-822c88570ec6": {
+      "ProjectGuid": "603e3984-c98b-47b8-a47f-822c88570ec6",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 2
+    },
+    "34ed5fc5-9e0b-4fe0-ae1c-cca80b71eab2": {
+      "ProjectGuid": "34ed5fc5-9e0b-4fe0-ae1c-cca80b71eab2",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 3
+    },
+    "6fe3e30e-9e4c-4aa3-a819-c629daef6bda": {
+      "ProjectGuid": "6fe3e30e-9e4c-4aa3-a819-c629daef6bda",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 4
+    },
+    "07c893e1-f2ad-4c59-bd62-a8e9825453be": {
+      "ProjectGuid": "07c893e1-f2ad-4c59-bd62-a8e9825453be",
+      "DisplayName": "BusinessLogic.Tests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
