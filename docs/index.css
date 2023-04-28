@@ -1,0 +1,86 @@
+h1{
+    color:hotpink
+}
+body{
+    margin: 0;
+}
+
+.header{
+    padding: 80px;
+    text-align: center;
+    background: lemonchiffon;
+    color:rgb(251, 160, 206);
+}
+
+.navbar a {
+    float:left;
+    display: block;
+    color: rgb(251, 160, 206);
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar{
+    overflow: hidden;
+    background-color:rgb(193, 248, 193);
+}
+
+.navbar a.right{
+    float: right;
+}
+
+.navbar a:hover{
+    background-color: hotpink;
+    color: lemonchiffon;
+}
+
+.fakeimg{
+    background-color: hotpink;
+    width: 100%;
+    padding: 20px;
+}
+
+
+.row{
+    display:flex;
+}
+
+.side{
+    background-color: lemonchiffon;
+    padding: 20px;
+}
+
+.main{
+    flex: 70%;
+    background-color: lemonchiffon;
+    padding: 20px;
+    color: rgb(251, 160, 206);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.footer{
+    padding: 20px;
+    text-align: center;
+    background: rgb(193, 248, 193);
+    color:rgb(251, 160, 206);
+}
+
+@media screen and (max-width: 700px){
+.row{
+    flex-direction: column;
+}
+}
+
+@media screen and (max-width: 400px){
+    .navbar a{
+        float: none;
+        width: 100%;
+    }
+}
+
+
