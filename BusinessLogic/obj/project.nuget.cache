@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oDTYdGBb8vEMRCgfO2Wf+vlGOEzrLGIjLf3tafLKVQMWYSwd6ZoASRcWhPV+jIpJ8PJZOv64+kFYbKnoQuChaw==",
+  "dgSpecHash": "L2d3v7Mj1ocdPOfLuQfpyMgHdjZ53duOBXc0rNrlr0HZiSoZOAocfC55HZgJaxejb7bIh6SceFPh2xZxT14LCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\masha\\Downloads\\Panina_Masha_new-main\\Panina_Masha_new-main\\BusinessLogic\\BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Panina_Masha_new-main (1)11 — копия — копия\\Panina_Masha_new-main\\BusinessLogic\\BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\masha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\masha\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

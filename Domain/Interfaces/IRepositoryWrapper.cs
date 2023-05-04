@@ -11,5 +11,25 @@ namespace Domain.Wrapper
     {
         IUserRepository User { get; }
         Task Save();
+        IBaskerRepository Basket { get; }
+        
+
+        IFilterrRepository Filterr { get; }
+        
+
+        IOrderrRepository Orderr { get; }
+        
+
+        IProductRepository Product { get; }
+        
+
+        ISavedadressRepository SevedAdress { get; }
+        
+
+
+
+
+
+
     }
 }

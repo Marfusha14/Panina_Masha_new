@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Domain.Models;
 
 
+
 namespace Domain.Models
 {
     public partial class Basket
