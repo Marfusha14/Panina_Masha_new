@@ -35,7 +35,12 @@
       "ProjectGuid": "07c893e1-f2ad-4c59-bd62-a8e9825453be",
       "DisplayName": "BusinessLogic.Tests",
       "ColorIndex": 5
+    },
+    "1f10da52-bcda-454e-b567-91b09ee2d99c": {
+      "ProjectGuid": "1f10da52-bcda-454e-b567-91b09ee2d99c",
+      "DisplayName": "BlazorServer",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }

@@ -4,6 +4,236 @@
         <name>BackendApi</name>
     </assembly>
     <members>
+        <member name="M:BackendApi.Controllers.BaskerController.GetAll">
+            <summary>
+            Получение списка всех корзин БД
+            </summary>
+        </member>
+        <member name="M:BackendApi.Controllers.BaskerController.GetById(System.Int32)">
+            <summary>
+            Возвращение айди всех корзины
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.BaskerController.Add(BackendApi.Contracts.Basket.CreateBasketRequest)">
+             <summary>
+             Создание новой корзины
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 POST /Todo
+                 {
+                     "login" : "A4Tech Bloody B188",
+                     "password" : "!Pa$$word123@",
+                     "firstname" : "Иван",
+                     "lastname" : "Иванов",
+                     "middlename" : "Иванович"
+                 }
+            
+             </remarks>
+             <param name="model">Корзина</param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.BaskerController.Update(Domain.Models.Basket)">
+            <summary>
+            Изменение сущностей записи
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.BaskerController.Delete(System.Int32)">
+            <summary>
+            Удаление корзины
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.FilterrControlerss.GetAll">
+            <summary>
+            Получение списка всех фильтров
+            </summary>
+        </member>
+        <member name="M:BackendApi.Controllers.FilterrControlerss.GetById(System.Int32)">
+            <summary>
+            Возвращение айди всех фильтров
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.FilterrControlerss.Add(BackendApi.Contracts.Filterr.CreateFilterrRequest)">
+             <summary>
+             Создание нового фильтра
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 POST /Todo
+                 {
+                     "login" : "A4Tech Bloody B188",
+                     "password" : "!Pa$$word123@",
+                     "firstname" : "Иван",
+                     "lastname" : "Иванов",
+                     "middlename" : "Иванович"
+                 }
+            
+             </remarks>
+             <param name="model">Фильтр</param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.FilterrControlerss.Update(Domain.Models.Filterr)">
+            <summary>
+            Изменение сущностей записи
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.FilterrControlerss.Delete(System.Int32)">
+            <summary>
+            Удаление фильтра
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.OrderssControllers.GetAll">
+            <summary>
+            Получение списка всех заказов БД
+            </summary>
+        </member>
+        <member name="M:BackendApi.Controllers.OrderssControllers.GetById(System.Int32)">
+            <summary>
+            Возвращение айди всех заказов
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.OrderssControllers.Add(BackendApi.Contracts.Orders.CreateOrderssRequest)">
+             <summary>
+             Создание нового заказа
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 POST /Todo
+                 {
+                     "login" : "A4Tech Bloody B188",
+                     "password" : "!Pa$$word123@",
+                     "firstname" : "Иван",
+                     "lastname" : "Иванов",
+                     "middlename" : "Иванович"
+                 }
+            
+             </remarks>
+             <param name="model">Заказ</param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.OrderssControllers.Update(Domain.Models.Orderr)">
+            <summary>
+            Изменение сущностей записи
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.OrderssControllers.Delete(System.Int32)">
+            <summary>
+            Удаление заказа
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.ProductControllers.GetAll">
+            <summary>
+            Получение списка всех товаров
+            </summary>
+        </member>
+        <member name="M:BackendApi.Controllers.ProductControllers.GetById(System.Int32)">
+            <summary>
+            Возвращение айди всех товаров
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.ProductControllers.Add(BackendApi.Contracts.Product.CreateProductRequest)">
+             <summary>
+             Создание нового товара
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 POST /Todo
+                 {
+                     "login" : "A4Tech Bloody B188",
+                     "password" : "!Pa$$word123@",
+                     "firstname" : "Иван",
+                     "lastname" : "Иванов",
+                     "middlename" : "Иванович"
+                 }
+            
+             </remarks>
+             <param name="model">Товар</param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.ProductControllers.Update(Domain.Models.Product)">
+            <summary>
+            Изменение сущностей записи
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.ProductControllers.Delete(System.Int32)">
+            <summary>
+            Удаление товара
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.SavedAdressControllers.GetAll">
+            <summary>
+            Получение списка всех сохраненных адресов
+            </summary>
+        </member>
+        <member name="M:BackendApi.Controllers.SavedAdressControllers.GetById(System.Int32)">
+            <summary>
+            Возвращение айди всех адресов пользователей
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.SavedAdressControllers.Add(BackendApi.Contracts.SavedAdress.CreateSavedAdressRequest)">
+             <summary>
+             Создание нового сохраненного адреса пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 POST /Todo
+                 {
+                     "login" : "A4Tech Bloody B188",
+                     "password" : "!Pa$$word123@",
+                     "firstname" : "Иван",
+                     "lastname" : "Иванов",
+                     "middlename" : "Иванович"
+                 }
+            
+             </remarks>
+             <param name="model">Сохраненные адреса</param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.SavedAdressControllers.Update(Domain.Models.SavedAddress)">
+            <summary>
+            Изменение сущностей записи
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.SavedAdressControllers.Delete(System.Int32)">
+            <summary>
+            Удаление сохраненного адреса
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
         <member name="M:BackendApi.Controllers.UserController.GetAll">
             <summary>
             Получение списка всех пользователей БД

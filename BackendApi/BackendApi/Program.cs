@@ -46,6 +46,11 @@ namespace BackendApi
 
             builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
             builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<IBasketService, BasketService>();
+            builder.Services.AddScoped<IFilterrService, FilterrService>();
+            builder.Services.AddScoped<IOrderrService, OrderrService>();
+            builder.Services.AddScoped<IProductService, ProductService>();
+            builder.Services.AddScoped<ISavedAdressService, SavedAdressService>();
 
 
             // Add services to the container.

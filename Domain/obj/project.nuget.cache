@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6/PbtwUUWzCn4o9CdMj7OTpwq8mJ8d0shwh8g8E4G/42BTLuctyvDLAp9QETvXC55S5WwJUkYuB1E5h4ML/btA==",
+  "dgSpecHash": "69CKevs7CxK1AEzwiwvCTOGoD9NU0wpUiccm8w6wvk05aWe4pmgXGjIPhTxp9sqq8+7jv3fpdlME2PEFZVsb+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Panina_Masha_new-main (1)11 — копия — копия\\Panina_Masha_new-main\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Panina_Masha_new-main (1)11 — копия\\Panina_Masha_new-main\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\masha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\masha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

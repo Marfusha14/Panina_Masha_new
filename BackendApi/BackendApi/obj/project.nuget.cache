@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fSO9ecaQtHBz9AnOs9NI+XagO1IyVp+ewW9+OvIRP+4SNpnoyCNTE4116PJkufOaRSisv6HOwmtjgAv05GkR9Q==",
+  "dgSpecHash": "uziEepAHB8FoVbOofTV4taxjsRpHMHtUvLWtfRfPm9OOHXmUhp+OBOuq824fqG0SHmRu7SgIojvH4S8Df6bQxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\masha\\Downloads\\Panina_Masha_new-main\\Panina_Masha_new-main\\BackendApi\\BackendApi\\BackendApi.csproj",
+  "projectFilePath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Panina_Masha_new-main (1)11 — копия\\Panina_Masha_new-main\\BackendApi\\BackendApi\\BackendApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\masha\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\masha\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

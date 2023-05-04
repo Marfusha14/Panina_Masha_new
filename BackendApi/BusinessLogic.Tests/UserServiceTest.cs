@@ -50,7 +50,7 @@ namespace BusinessLogic.Tests
 
         [Theory]
         [MemberData(nameof(GetIncorrectUsers))]
-        public async Task CreateAsyncNewUserShouldNotCreateNewUser()
+        public async Task CreateAsyncNewUserShouldNotCreateNewUser(User user)
         {
             var newUser = new User();
             //{

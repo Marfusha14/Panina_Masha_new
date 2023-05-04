@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BbidRK2qWikH+fILshBhbOE6FTSuFRTTnZu0ro0cYCSgtzIqAnhIHiZPtBmadP9rYUnfIWMA2ywh/x8iv8Ctog==",
+  "dgSpecHash": "GJQHFqGNxD3ZwCoD0U404mKkUFRZndY+Szg7TAgp07Ra+KbvJBtET1XYayZezlNNLvvHkkRcBE6BsNfb5ijqDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\masha\\Downloads\\Panina_Masha_new-main\\Panina_Masha_new-main\\BackendApi\\BusinessLogic.Tests\\BusinessLogic.Tests.csproj",
+  "projectFilePath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Panina_Masha_new-main (1)11 — копия\\Panina_Masha_new-main\\BackendApi\\BusinessLogic.Tests\\BusinessLogic.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\masha\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\masha\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
