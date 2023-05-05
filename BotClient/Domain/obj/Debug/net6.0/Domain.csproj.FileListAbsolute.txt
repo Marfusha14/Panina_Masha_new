@@ -1,0 +1,98 @@
+C:\Users\user\Desktop\NEW\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\NEW\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\user\Desktop\NEW\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\NEW\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\NEW\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NEW\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NEW\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NEW\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\NEW\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NEW\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\NEW\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\NEW\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\NEW\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\user\Desktop\NEW\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\masha\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\user\Downloads\Panina_Masha_new-main\Panina_Masha_new-main\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\BotClient\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\BotClient\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\user\Desktop\BotClient\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\BotClient\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\BotClient\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BotClient\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BotClient\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BotClient\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\BotClient\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BotClient\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\BotClient\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\BotClient\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\BotClient\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\user\Desktop\BotClient\Domain\obj\Debug\net6.0\ref\Domain.dll
