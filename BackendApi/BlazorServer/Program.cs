@@ -17,7 +17,7 @@ namespace BlazorServer
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddDbContext<pharmacy199Context>(
                 optionsAction: options => options.UseSqlServer(
-                    "Server = lab116-p; Database = apteka; User Id = sa; Password = 12345; TrustServerCertificate = true;"));
+                    "Server=(LocalDB)\\MSSQLLocalDB;Database=apteka_new1;TrustServerCertificate=true;"));
 
 
             builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();

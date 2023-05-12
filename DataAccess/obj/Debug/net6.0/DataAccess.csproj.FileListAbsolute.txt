@@ -32,3 +32,20 @@ C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — 
 C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
 C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 C:\Users\masha\OneDrive\Рабочий стол\Panina_Masha_new-main (1)11 — копия\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\user\Downloads\Panina_Masha_new-main (1)\Panina_Masha_new-main\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
