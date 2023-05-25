@@ -7,6 +7,9 @@ using Domain.Wrapper;
 using DataAccess.Wrapper;
 using Domain.Interfaces;
 using BusinessLogic.Services;
+using BlazorServer.Auth;
+using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage;
+using Microsoft.AspNetCore.Components.Authorization;
 
 namespace BlazorServer
 {
@@ -17,7 +20,18 @@ namespace BlazorServer
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddDbContext<pharmacy199Context>(
                 optionsAction: options => options.UseSqlServer(
-                    "Server=(LocalDB)\\MSSQLLocalDB;Database=apteka_new1;TrustServerCertificate=true;"));
+                    "Server=LAPTOP-OUBQPCO5;Database=apteka_new11;Integrated Security =True;TrustServerCertificate=true;"));
+
+
+
+            builder.Services.AddAuthenticationCore();
+            builder.Services.AddRazorPages();
+            builder.Services.AddServerSideBlazor();
+            builder.Services.AddSingleton<WeatherForecastService>();
+
+            builder.Services.AddScoped<AuthenticationStateProvider, CustomAuthenticationStateProvider>();
+            builder.Services.AddScoped<ProtectedSessionStorage>();
+            builder.Services.AddScoped<ProtectedLocalStorage>();
 
 
             builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();

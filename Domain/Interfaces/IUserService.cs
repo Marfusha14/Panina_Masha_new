@@ -15,5 +15,6 @@ namespace Domain.Interfaces
         Task Create(User model);
         Task Update(User model);
         Task Delete(int id);
+        Task<User> Login(string email, string password);
     }
 }

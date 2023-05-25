@@ -55,5 +55,33 @@ namespace BusinessLogic.Services
             await _repositoryWrapper.User.Delete(user.First());
             await _repositoryWrapper.Save();
         }
+        public async Task<User> Login(string email, string password)
+        {
+            var user = await _repositoryWrapper.User.GetByEmailAndPassword(email, password);
+            return user;
+        }
     }
 }
+
+//@using BlazorServer.Auth;
+//@inherits LayoutComponentBase
+//@inject AuthenticationStateProvider authStateProvide
+//@inject NavigationManager navManager
+
+//<PageTitle>Web</PageTitle>
+
+//<div class="page">
+//    <div class="sidebar">
+//        <NavMenu />
+//    </div>
+
+//    <main>
+//        <div class="top-row px-4">
+//            <a href = "hhtps://docs.microsoft.com/aspnet/"
+//        </ div >
+//    </ main >
+
+
+
+//</ div >
+

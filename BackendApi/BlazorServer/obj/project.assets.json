@@ -2460,19 +2460,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\masha\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Downloads\\Panina_Masha_new-main (1)\\Panina_Masha_new-main\\BackendApi\\BlazorServer\\BlazorServer.csproj",
+      "projectUniqueName": "E:\\Panina_Masha_new-main (3)\\Panina_Masha_new-main\\BackendApi\\BlazorServer\\BlazorServer.csproj",
       "projectName": "BlazorServer",
-      "projectPath": "C:\\Users\\user\\Downloads\\Panina_Masha_new-main (1)\\Panina_Masha_new-main\\BackendApi\\BlazorServer\\BlazorServer.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Downloads\\Panina_Masha_new-main (1)\\Panina_Masha_new-main\\BackendApi\\BlazorServer\\obj\\",
+      "projectPath": "E:\\Panina_Masha_new-main (3)\\Panina_Masha_new-main\\BackendApi\\BlazorServer\\BlazorServer.csproj",
+      "packagesPath": "C:\\Users\\masha\\.nuget\\packages\\",
+      "outputPath": "E:\\Panina_Masha_new-main (3)\\Panina_Masha_new-main\\BackendApi\\BlazorServer\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\masha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2486,14 +2491,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Downloads\\Panina_Masha_new-main (1)\\Panina_Masha_new-main\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\user\\Downloads\\Panina_Masha_new-main (1)\\Panina_Masha_new-main\\BusinessLogic\\BusinessLogic.csproj"
+            "E:\\Panina_Masha_new-main (3)\\Panina_Masha_new-main\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "E:\\Panina_Masha_new-main (3)\\Panina_Masha_new-main\\BusinessLogic\\BusinessLogic.csproj"
             },
-            "C:\\Users\\user\\Downloads\\Panina_Masha_new-main (1)\\Panina_Masha_new-main\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\user\\Downloads\\Panina_Masha_new-main (1)\\Panina_Masha_new-main\\DataAccess\\DataAccess.csproj"
+            "E:\\Panina_Masha_new-main (3)\\Panina_Masha_new-main\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "E:\\Panina_Masha_new-main (3)\\Panina_Masha_new-main\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\user\\Downloads\\Panina_Masha_new-main (1)\\Panina_Masha_new-main\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\user\\Downloads\\Panina_Masha_new-main (1)\\Panina_Masha_new-main\\Domain\\Domain.csproj"
+            "E:\\Panina_Masha_new-main (3)\\Panina_Masha_new-main\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\Panina_Masha_new-main (3)\\Panina_Masha_new-main\\Domain\\Domain.csproj"
             }
           }
         }
@@ -2525,7 +2530,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,6 +9,7 @@ using Domain.Wrapper;
 using Domain.Interfaces;
 using DataAccess;
 using DataAccess.Models;
+using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage;
 
 namespace BackendApi
 {
@@ -19,7 +20,7 @@ namespace BackendApi
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddDbContext<pharmacy199Context>(
                 optionsAction: options => options.UseSqlServer(
-                    connectionString: "Server=(LocalDB)\\MSSQLLocalDB;Database=apteka_new1;TrustServerCertificate=true;"));
+                    connectionString: "Server=LAPTOP-OUBQPCO5;Database=apteka_new11;Integrated Security =True;TrustServerCertificate=true;"));
             builder.Services.AddSwaggerGen(options =>
             {
                 options.SwaggerDoc(name:"v1", new OpenApiInfo
@@ -43,7 +44,14 @@ namespace BackendApi
                 options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
 
             });
+            //builder.Services.AddAuthenticationCore();
+            //builder.Services.AddRazorPages();
+            //builder.Services.AddServerSideBlazor();
+            //builder.Services.AddSingleton<WeatherForecastService>();
 
+            //builder.Services.AddScoped<AuthentionStateProvider, CustomAuthenticationStateProvider>();
+            //builder.Services.AddScoped<ProtectedSessionStorage>();
+            //builder.Services.AddScoped<ProtectedLocalStorage>();
             builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
             builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddScoped<IBasketService, BasketService>();

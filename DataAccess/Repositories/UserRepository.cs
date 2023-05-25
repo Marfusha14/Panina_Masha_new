@@ -17,5 +17,16 @@ namespace DataAccess.Repositories
         {
 
         }
+
+        public async Task<User?> GetByEmailAndPassword(string email, string password)
+        {
+            var result = await base.FindByCondition(x => x.Mail == email && x.PhoneNumber == password);
+            if (result == null || result.Count == 0)
+            {
+                return null;
+            }
+            return result[0];
+        }
+
     }
 }
