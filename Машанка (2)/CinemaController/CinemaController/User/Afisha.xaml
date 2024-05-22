@@ -1,0 +1,21 @@
+﻿<Page x:Class="CinemaController.Afisha"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CinemaController"
+      mc:Ignorable="d" 
+      d:DesignHeight="750" d:DesignWidth="1600"
+      Title="Afisha">
+    <ScrollViewer VerticalScrollBarVisibility="Auto" Width="1590" HorizontalScrollBarVisibility="Auto">
+        <Grid x:Name="MainGrid" Height="3676" Margin="0,0,0,0" Width="1559">
+            <TextBlock FontSize="24" Foreground="Yellow" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="35" Width="104"><Run Language="ru-ru" Text="Фильтры"/></TextBlock>
+            <TextBlock FontSize="20" Foreground="Yellow" HorizontalAlignment="Left" Margin="357,17,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="28" Width="124"><Run Language="ru-ru" Text="Год выпуска"/></TextBlock>
+            <TextBox x:Name="year" FontSize="17" HorizontalAlignment="Left" Margin="486,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <TextBlock FontSize="20" Foreground="Yellow" HorizontalAlignment="Left" Margin="124,17,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="28" Width="100"><Run Language="ru-ru" Text="Название"/></TextBlock>
+            <TextBox x:Name="title" FontSize="17" HorizontalAlignment="Left" Margin="224,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <Button x:Name="Filter" Style="{DynamicResource DefaultButton}" Content="Применить" HorizontalAlignment="Left" Margin="627,17,0,0" VerticalAlignment="Top" Click="Filter_Click"/>
+            <Button x:Name="Drop" Style="{DynamicResource DefaultButton}" Content="Сбросить" HorizontalAlignment="Left" Margin="627,64,0,0" VerticalAlignment="Top" Click="Drop_Click"/>
+        </Grid>
+    </ScrollViewer>
+</Page>

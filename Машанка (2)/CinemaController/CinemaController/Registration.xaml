@@ -1,0 +1,24 @@
+﻿<Window x:Class="CinemaController.Registration"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CinemaController"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Registration">
+    <Grid Background="Black">
+        <TextBox x:Name="LoginTB" HorizontalAlignment="Left" Margin="337,234,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="340" Height="47" FontSize="25" Foreground="Black" Background="White"/>
+        <PasswordBox x:Name="PasswordTB" HorizontalAlignment="Left" Margin="337,297,0,0" VerticalAlignment="Top" Width="340" Height="47" FontSize="25" Foreground="Black" Background="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="211,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="126" FontSize="25" Foreground="White"><Run Language="ru-ru" Text="Фамилия"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="211,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="126" FontSize="25" Foreground="White"><Run Language="ru-ru" Text="Имя"/></TextBlock>
+        <Button x:Name="LoginBtn" Style="{DynamicResource DefaultButton}"  Content="У меня уже есть аккаунт" HorizontalAlignment="Left" Margin="527,398,0,0" VerticalAlignment="Top" Height="24" Width="150" Click="LoginBtn_Click" FontSize="12"/>
+        <Button x:Name="RegBtn" Style="{DynamicResource DefaultButton}"  Content="Завершить регистрацию" HorizontalAlignment="Left" Margin="325,348,0,0" VerticalAlignment="Top" Height="45" Width="352" Click="RegBtn_Click"/>
+        <TextBox x:Name="Fam" HorizontalAlignment="Left" Margin="337,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="340" Height="47" FontSize="25" Foreground="Black" Background="White"/>
+        <TextBox x:Name="Nam" HorizontalAlignment="Left" Margin="337,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="340" Height="47" FontSize="25" Foreground="Black" Background="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="211,234,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="126" FontSize="25" Foreground="White"><Run Language="ru-ru" Text="Логин"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="211,297,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="126" FontSize="25" Foreground="White"><Run Language="ru-ru" Text="Пароль"/></TextBlock>
+        <ComboBox x:Name="GenderCb" FontSize="20" HorizontalAlignment="Left" Margin="337,170,0,0" VerticalAlignment="Top" Width="340" Height="46"/>
+        <TextBlock HorizontalAlignment="Left" Margin="211,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="126" FontSize="25" Foreground="White"><Run Language="ru-ru" Text="Пол"/></TextBlock>
+    </Grid>
+</Window>

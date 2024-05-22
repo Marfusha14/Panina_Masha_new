@@ -1,0 +1,15 @@
+﻿<Window x:Class="CinemaController.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CinemaController"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="1600">
+    <Grid Background="Black">
+        <Button x:Name="AfishaBtn" Content="Афиша" Style="{DynamicResource DefaultButton}" HorizontalAlignment="Left" Margin="63,45,0,0" VerticalAlignment="Top" Height="48" Width="106" Click="AfishaBtn_Click"/>
+        <Button x:Name="RecsBtn" Content="Рекомендации" Style="{DynamicResource DefaultButton}" HorizontalAlignment="Left" Margin="245,45,0,0" VerticalAlignment="Top" Height="48" Width="210" Click="RecsBtn_Click"/>
+        <Button x:Name="ProfileBtn" Content="Мой профиль" Style="{DynamicResource DefaultButton}" HorizontalAlignment="Left" Margin="1335,45,0,0" VerticalAlignment="Top" Height="48" Width="209" Click="ProfileBtn_Click"/>
+        <Frame x:Name="Frame" Width="1600" Height="750" Content="Frame" Margin="0,134,0,0" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>
