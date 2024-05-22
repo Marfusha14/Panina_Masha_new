@@ -1,0 +1,16 @@
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\bin\Debug\Проект.exe.config
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\bin\Debug\Проект.exe
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\bin\Debug\Проект.pdb
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\obj\Debug\Проект.csproj.AssemblyReference.cache
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\obj\Debug\Проект.csproj.SuggestedBindingRedirects.cache
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\obj\Debug\MainWindow.g.cs
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\obj\Debug\App.g.cs
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\obj\Debug\Проект_MarkupCompile.cache
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\obj\Debug\Проект_MarkupCompile.lref
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\obj\Debug\MainWindow.baml
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\obj\Debug\Проект.g.resources
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\obj\Debug\Проект.Properties.Resources.resources
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\obj\Debug\Проект.csproj.GenerateResource.cache
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\obj\Debug\Проект.exe
+C:\Users\oleg\Desktop\Шедеврокурсачи\ПИЗДЕЦ\мария эйфория\Проект\Проект\obj\Debug\Проект.pdb
